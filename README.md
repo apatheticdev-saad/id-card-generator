@@ -40,6 +40,6 @@ git clone https://github.com/apatheticdev-saad/id-card-generator.git
 ---
 
 ## 👤 Author
-<img src="preview.png" alt="Preview" width="600"/>
+<img src="preview.png" alt="Preview" width="400"/>
 **Saad**
 - GitHub: [@apatheticdev-saad](https://github.com/apatheticdev-saad)
