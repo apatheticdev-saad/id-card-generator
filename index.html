@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ID Card Generator</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+</head>
+
+<body>
+
+<h1>ID Card Generator</h1>
+
+<div id="testing">
+<div class="form-container">
+
+<input type="text" id="name" placeholder="Enter Name">
+
+<input type="text" id="role" placeholder="Enter Course / Position">
+
+<input type="file" id="photo" accept="image/*">
+
+<select id="template">
+<option value="college">College Template</option>
+<option value="company">Company Template</option>
+</select>
+
+<button onclick="generateID()">Generate ID Card</button>
+<button onclick="downloadID()">Download ID Card</button>
+
+</div>
+
+
+<div id="id-card">
+
+<img id="template-img" src="">
+
+<img id="profile-pic" src="">
+
+<h2 id="card-name">Name</h2>
+
+<p id="card-role">Role</p>
+
+<p id="card-id">ID: 00000</p>
+
+</div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
