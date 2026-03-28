@@ -7,7 +7,7 @@ Enter personal details, upload a photo, and instantly get a professional ID card
 
 ## 📸 Preview
 
-![Preview](preview.png)
+<img src="preview.png" alt="Preview" width="400"/>
 
 ---
 
@@ -40,6 +40,6 @@ git clone https://github.com/apatheticdev-saad/id-card-generator.git
 ---
 
 ## 👤 Author
-<img src="preview.png" alt="Preview" width="400"/>
+
 **Saad**
 - GitHub: [@apatheticdev-saad](https://github.com/apatheticdev-saad)
